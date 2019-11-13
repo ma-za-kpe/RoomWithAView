@@ -1,12 +1,12 @@
 # RoomWithAView
-Room with a view is a simple application that shows haow to use Android jetpack features by adding words ro the room database and displaying them in a recyclerview.
+Room with a view is a simple application that shows how to use Android jetpack features by adding words to the room database and displaying them in a recyclerview.
 ## RoomWithAView
 
 The RoomWithAView app is a demo app that helps you save, Update and delete names to the Database. 
-* CREATE Todo
-* READ Todo
-* UPDATE Todo
-* DELETE Todo
+* CREATE RoomWithAView
+* READ RoomWithAView
+* UPDATE RoomWithAView
+* DELETE RoomWithAView
 
 This app demonstrates the following views and techniques:
 * Room database
