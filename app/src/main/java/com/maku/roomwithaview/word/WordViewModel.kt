@@ -5,7 +5,6 @@ import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.viewModelScope
 import com.maku.roomwithaview.database.Word
-import com.maku.roomwithaview.database.WordRoomDatabase
 import com.maku.roomwithaview.repository.WordRepository
 import kotlinx.coroutines.launch
 
