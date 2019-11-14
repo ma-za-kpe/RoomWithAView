@@ -48,4 +48,4 @@ The basic steps are:
 [APK file]()
 
 ## Link to codelab
-[COURSE](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/index.html?index=..%2F..index#0)
+[CodeLab](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/index.html?index=..%2F..index#0)
