@@ -9,7 +9,7 @@ import com.maku.roomwithaview.repository.WordRepository
 import kotlinx.coroutines.launch
 
 // Class extends AndroidViewModel and requires application as a parameter.
-class WordViewModel(application: Application) : AndroidViewModel(application) {
+class WordViewModel (application: Application) : AndroidViewModel(application) {
 
     // The ViewModel maintains a reference to the repository to get data.
     private val repository: WordRepository

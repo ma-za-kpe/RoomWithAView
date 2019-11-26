@@ -13,8 +13,6 @@ class NewWordActivity : AppCompatActivity() {
 
     private lateinit var editWordView: EditText
 
-    private lateinit var wordViewModel: WordViewModel
-
     public override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_new_word)
